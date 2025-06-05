@@ -98,6 +98,12 @@
       "date": "2022-12-11",
       "issuer": "Alura",
       "url": "https://app.aluracursos.com/certificate/856cd42a-bbfc-4667-a1fa-dfa0e5d3f9b0"
+    },
+    {
+      "name": "GeneXus 17 Junior Analyst",
+      "date": "2021-10-02",
+      "issuer": "GeneXus",
+      "url": "https://training.genexus.com/permalink/10342"
     }
   ],
   "publications": [
@@ -210,8 +216,14 @@
   ],
   "references": [
     {
-      "name": "Jane Doe",
-      "reference": "Reference…"
+      "name": "Freddy Granda",
+      "reference": "Ingeniero en Software",
+      "url": "https://www.linkedin.com/in/freddy-granda/"
+    },
+    {
+      "name": "Milka Espinoza Naranjo",
+      "reference": "Ingeniero en Procesos",
+      "url": "https://www.linkedin.com/in/mespinozana-000a0a174/"
     }
   ],
   "projects": [
@@ -248,18 +260,18 @@
       "github": "https://github.com/ggarciap3/Portapapeles_Multiple"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Cv minimalista JSON",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "description": "Un portafolio minimalista configurable mediante un JSON",
+      "highlights": [
+        "Adaptado para uso personal",
+        "Astro",
+        "Ninja Keys",
+        "Typecript",
+        "Tailwind"
+      ],
+      "url": "https://github.com/ggarciap3/minimalist-portfolio-json",
+      "github": "https://github.com/ggarciap3/minimalist-portfolio-json"
     }
   ]
 }

@@ -1,8 +1,8 @@
 ---
-import GitHub from "@/icons/GitHub.astro"
-import Section from "../Section.astro"
+import GitHub from "@/icons/GitHub.astro";
+import Section from "../Section.astro";
 
-import { projects } from "@cv"
+import { projects } from "@cv";
 ---
 
 <Section title="Proyectos">
@@ -15,7 +15,11 @@ import { projects } from "@cv"
               <article>
                 <header>
                   <h3>
-                    <a href={url} target="_blank" title={`Ver el proyecto ${name}`}>
+                    <a
+                      href={url}
+                      target="_blank"
+                      title={`Ver el proyecto ${name}`}
+                    >
                       {name}
                     </a>
                     {isActive && <span>•</span>}
@@ -34,12 +38,12 @@ import { projects } from "@cv"
                 </header>
                 <footer>
                   {highlights.map((highlight) => {
-                    return <span>{highlight}</span>
+                    return <span>{highlight}</span>;
                   })}
                 </footer>
               </article>
             </li>
-          )
+          );
         }
       )
     }
@@ -56,7 +60,7 @@ import { projects } from "@cv"
 
   article {
     border-radius: 8px;
-    border: 1px solid #f2f2f2;
+    border: 1px solid rgb(40, 161, 182);
     gap: 16px;
     display: flex;
     flex-direction: column;
@@ -87,7 +91,7 @@ import { projects } from "@cv"
   }
 
   article h3 span {
-    color: rgb(0, 188, 47);
+    color: rgb(0, 128, 188);
     animation-name: flicker;
     animation-duration: 3s;
     animation-timing-function: ease-in;
@@ -104,7 +108,7 @@ import { projects } from "@cv"
   footer span {
     border-radius: 6px;
     background: #eee;
-    color: #444;
+    color: #444444;
     font-size: 0.6rem;
     font-weight: 500;
     padding: 0.2rem 0.6rem;

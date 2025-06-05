@@ -140,6 +140,7 @@ interface Interests {
 interface References {
   name: string
   reference: string
+  url: string
 }
 
 type Highlight = Array<String>
