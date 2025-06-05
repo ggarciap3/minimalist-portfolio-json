@@ -119,83 +119,71 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": [""]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "keywords":[""]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "keywords": [""]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
+      "keywords":[""]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "keywords":[""]
     },
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": [""]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
+      "keywords": [""]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "keywords": [""]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
+      "keywords":[""]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "keywords":[""]
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords":[""]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [""]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords":[""] 
+    },{
+      "name": "Php",
+      "level": "Avanzado",
+      "keywords":[""] 
     }
   ],
   "languages": [
@@ -228,50 +216,12 @@
   ],
   "projects": [
     {
-      "name": "Modulo-PQRS",
-      "isActive": true,
-      "description": "Modulo de gestión de Peticiones, Quejas, Reclamos y Sugerencias (PQRS) para clientes internos y externos",
-      "highlights": ["Python", "Django", "SQLite", "Bootstrap", "CSS"],
-      "url": "https://github.com/ggarciap3/Modulo-PQRS",
-      "github": "https://github.com/ggarciap3/Modulo-PQRS"
-    },
-    {
-      "name": "Control de Inventario",
-      "isActive": true,
-      "description": "Este proyecto es una aplicación móvil desarrollada en Flutter para la gestión de inventarios mediante una interfaz sencilla y funcional.",
-      "highlights": ["Flutter", "Dart", "SQLite", "Android"],
-      "url": "https://github.com/ggarciap3/Control_inventario",
-      "github": "https://github.com/ggarciap3/Control_inventario"
-    },
-    {
-      "name": "Unir_Pdfs_Python",
-      "isActive": true,
-      "description": "Este script en Python permite unir todos los archivos PDF que se encuentran dentro de una carpeta específica en un solo archivo PDF final.",
-      "highlights": ["Python", "PyPDF2"],
-      "url": "https://github.com/ggarciap3/Unir_Pdfs_Python",
-      "github": "https://github.com/ggarciap3/Unir_Pdfs_Python"
-    },
-    {
-      "name": "Portapapeles_Multiple",
-      "isActive": true,
-      "description": "Este programa permite copiar, guardar y reutilizar múltiples fragmentos de texto mediante combinaciones de teclas rápidas. Ideal para usuarios que trabajan con textos repetitivos o datos frecuentes.",
-      "highlights": ["Python", "Tkinter", "Pyperclip"],
-      "url": "https://github.com/ggarciap3/Portapapeles_Multiple",
-      "github": "https://github.com/ggarciap3/Portapapeles_Multiple"
-    },
-    {
-      "name": "Cv minimalista JSON",
-      "isActive": true,
-      "description": "Un portafolio minimalista configurable mediante un JSON",
-      "highlights": [
-        "Adaptado para uso personal",
-        "Astro",
-        "Ninja Keys",
-        "Typecript",
-        "Tailwind"
-      ],
-      "url": "https://github.com/ggarciap3/minimalist-portfolio-json",
-      "github": "https://github.com/ggarciap3/minimalist-portfolio-json"
+    "name": "Repositorio General",
+    "isActive": true,
+    "description": "Colección completa de proyectos desarrollados en PHP, Flutter, Python y otras tecnologías. Incluye sistemas CRUD, herramientas de automatización y aplicaciones móviles.",
+    "highlights": ["Modulo-PQRS", "Control de Inventario", "Unir_Pdfs_Python", "Portapapeles_Multiple", "Cv minimalista JSON"],
+    "url": "https://github.com/ggarciap3?tab=repositories",
+    "github": "https://github.com/ggarciap3?tab=repositories"
     }
   ]
 }

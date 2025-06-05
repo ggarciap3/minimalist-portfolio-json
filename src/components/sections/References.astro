@@ -31,9 +31,13 @@ import { references } from "@cv";
 
 <style>
   ul {
-    display: flex;
-    flex-direction: column;
-    gap: 32px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 48px 64px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
   }
 
   article h3 {
@@ -103,8 +107,12 @@ import { references } from "@cv";
   }
 
   @media (width <= 700px) {
+    ul {
+    grid-template-columns: 1fr;
+    }
     time {
       text-align: right;
     }
   }
+  
 </style>
