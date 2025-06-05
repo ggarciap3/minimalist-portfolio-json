@@ -218,7 +218,7 @@
     {
     "name": "Repositorio General",
     "isActive": true,
-    "description": "Colección completa de proyectos desarrollados en PHP, Flutter, Python y otras tecnologías. Incluye sistemas CRUD, herramientas de automatización y aplicaciones móviles.",
+    "description": "Portafolio completo con proyectos en PHP, Flutter y Python. Contiene sistemas CRUD, automatizaciones útiles y apps móviles funcionales.",
     "highlights": ["Modulo-PQRS", "Control de Inventario", "Unir_Pdfs_Python", "Portapapeles_Multiple", "Cv minimalista JSON"],
     "url": "https://github.com/ggarciap3?tab=repositories",
     "github": "https://github.com/ggarciap3?tab=repositories"
