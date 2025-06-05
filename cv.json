@@ -216,37 +216,36 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Modulo-PQRS",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
+      "description": "Modulo de gestión de Peticiones, Quejas, Reclamos y Sugerencias (PQRS) para clientes internos y externos",
+      "highlights": ["Python", "Django", "SQLite", "Bootstrap", "CSS"],
+      "url": "https://github.com/ggarciap3/Modulo-PQRS",
+      "github": "https://github.com/ggarciap3/Modulo-PQRS"
     },
     {
-      "name": "AdventJS",
+      "name": "Control de Inventario",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+      "description": "Este proyecto es una aplicación móvil desarrollada en Flutter para la gestión de inventarios mediante una interfaz sencilla y funcional.",
+      "highlights": ["Flutter", "Dart", "SQLite", "Android"],
+      "url": "https://github.com/ggarciap3/Control_inventario",
+      "github": "https://github.com/ggarciap3/Control_inventario"
     },
     {
-      "name": "Codember",
+      "name": "Unir_Pdfs_Python",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
+      "description": "Este script en Python permite unir todos los archivos PDF que se encuentran dentro de una carpeta específica en un solo archivo PDF final.",
+      "highlights": ["Python", "PyPDF2"],
+      "url": "https://github.com/ggarciap3/Unir_Pdfs_Python",
+      "github": "https://github.com/ggarciap3/Unir_Pdfs_Python"
     },
     {
-      "name": "codi.link",
+      "name": "Portapapeles_Multiple",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "description": "Este programa permite copiar, guardar y reutilizar múltiples fragmentos de texto mediante combinaciones de teclas rápidas. Ideal para usuarios que trabajan con textos repetitivos o datos frecuentes.",
+      "highlights": ["Python", "Tkinter", "Pyperclip"],
+      "url": "https://github.com/ggarciap3/Portapapeles_Multiple",
+      "github": "https://github.com/ggarciap3/Portapapeles_Multiple"
     },
     {
       "name": "Pruebas Técnicas",
