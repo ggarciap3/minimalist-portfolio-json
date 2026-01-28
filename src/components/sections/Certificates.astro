@@ -36,9 +36,16 @@ import { certificates } from "@cv";
     <style>
       ul {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        grid-template-columns: repeat(3, 1fr);
         gap: 1rem;
         /* margin-inline: -16px; */
+      }
+
+      @media print {
+        ul {
+          grid-template-columns: repeat(5, 1fr);
+          gap: 0.5rem;
+        }
       }
 
       article {
@@ -50,6 +57,14 @@ import { certificates } from "@cv";
         flex-direction: column;
         padding: 16px;
         height: 100%;
+      }
+
+      @media print {
+        article {
+          padding: 8px;
+          border: 0.5px solid rgb(40, 161, 182);
+          gap: 8px;
+        }
       }
 
       article header {
@@ -72,6 +87,17 @@ import { certificates } from "@cv";
         font-size: 0.75rem;
         line-height: 1.2rem;
         margin-bottom: 4px;
+      }
+
+      @media print {
+        article p {
+          font-size: 0.6rem;
+          line-height: 1rem;
+        }
+
+        article h3 {
+          font-size: 0.8rem;
+        }
       }
 
       article h3 span {
