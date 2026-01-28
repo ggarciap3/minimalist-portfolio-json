@@ -6,7 +6,7 @@
     "email": "arongarcia558@gmail.com",
     "phone": "0968188923",
     "url": "",
-    "summary": "Soy desarrollador de software recién graduado, con experiencia práctica en automatización de procesos y desarrollo de aplicaciones. He trabajado en proyectos de migración de sistemas y herramientas de gestión. Me destaco por mi enfoque analítico y ganas de seguir aprendiendo. Busco mi primera oportunidad como desarrollador junior para aportar y crecer profesionalmente.",
+    "summary": "Soy desarrollador de software recién graduado, con experiencia práctica en automatización de procesos y desarrollo de aplicaciones. He trabajado en proyectos de migración de sistemas y herramientas de gestión. Me destaco por mi enfoque analítico y ganas de seguir aprendiendo.",
     "location": {
       "address": "Guayaquil",
       "postalCode": "",
@@ -34,11 +34,20 @@
   },
   "work": [
     {
+      "name": "Universidad de las Artes (UARTES)",
+      "position": "Asistente Técnico Informático",
+      "url": "https://www.linkedin.com/company/uartesec/",
+      "startDate": "2025-08-18",
+      "endDate": null,
+      "summary": "Diseño, desarrollo y mantenimiento de modulos para el SGA (Sistema de Gestión Académica) utilizando tecnologias como Django, Python, PostgreSQL, JavaScript, Bootstrap y CSS. Soporte técnico y capacitación a usuarios en el uso de herramientas tecnológicas.",
+      "highlights": ["Started the company"]
+    },
+    {
       "name": "Freelancer",
       "position": "Profesional Independiente",
       "url": "",
       "startDate": "2023-06-01",
-      "endDate": null,
+      "endDate": "2025-08-17",
       "summary": "Diseñé y desarrollé un módulo de atención al cliente (PQRS) utilizando Django, Python, SQLite, Bootstrap y CSS. Desarrollé una aplicación móvil de control de inventario en Flutter para Android. Implementé un portapapeles múltiple en Python, posteriormente convertido en ejecutable (.exe) para facilitar su distribución. Además, creé un script en Python para combinar automáticamente múltiples archivos PDF, optimizando la gestión documental y reduciendo tareas repetitivas.",
       "highlights": ["Started the company"]
     },
@@ -87,6 +96,24 @@
     }
   ],
   "certificates": [
+     {
+      "name": "Introduction to IoT",
+      "date": "2026-01-16",
+      "issuer": "Unemi",
+      "url": "https://www.credly.com/badges/641f8c96-6bf3-42e4-917b-1d0a598a7ce2/linked_in_profile"
+    },
+    {
+      "name": "Seguridad Informática",
+      "date": "2025-11-18",
+      "issuer": "Unemi",
+      "url": "https://sga.unemi.edu.ec/media/qrcode/certificados/5c39ec0f49614885b3ecda34718d1409.html?"
+    },
+    {
+      "name": "Python",
+      "date": "2025-06-01",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-bc97fa07-430b-4720-89e9-1e1b58afd173/"
+    },
     {
       "name": "Microsoft SQL Server",
       "date": "2025-05-24",
